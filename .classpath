@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src"
+		path="LowPolyTerrain-master/OpenGlWrapper" />
+	<classpathentry kind="src"
+		path="LowPolyTerrain-master/src" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/Users/Hicham/Desktop/slick-util.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Hicham/Desktop/gl/lwjgl_util-2.9.3.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Hicham/Desktop/gl/lwjgl-2.9.3.jar" />
+	<classpathentry kind="output"
+		path="LowPolyTerrain-master/out/production/LowPolyTerrain-master" />
+</classpath>
